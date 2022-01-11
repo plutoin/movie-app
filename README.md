@@ -7,6 +7,8 @@
 👨‍💻 **투입인원** : 1명 (개인 프로젝트)
 
 - [**WIKI**](https://github.com/plutoin/movie-app/wiki)
+- [**Notion**](https://www.notion.so/watchusrise/acfbcc93cfb7433bbdaefa2e5cc72a88?v=754c6d93419044f4b10272390717a239)
+  - 코드 진행 과정과 WIKI에 작성한 내용을 함께 확인 가능
 
 <br/>
 
