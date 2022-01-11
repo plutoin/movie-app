@@ -9,6 +9,9 @@
 - [**WIKI**](https://github.com/plutoin/movie-app/wiki)
 - <a href="https://www.notion.so/watchusrise/acfbcc93cfb7433bbdaefa2e5cc72a88?v=754c6d93419044f4b10272390717a239" target="_blank">**Notion**</a>
 
+<a href="https://techstock.biz" target="_blank">건망증이 심한 엔지니어</a>
+
+
 <br/>
 
 🌱 **스킬 및 사용 툴**
