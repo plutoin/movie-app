@@ -13,7 +13,7 @@
 
 🌱 **스킬 및 사용 툴**
 
-
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&max-width=100%)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![SASS](https://img.shields.io/badge/Scss-%23CC6699.svg?style=flat-square&logo=SASS&logoColor=white)
