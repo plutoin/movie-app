@@ -23,7 +23,6 @@
   </div>
 </template>
 
-
 <script>
 import MovieItem from '~/components/MovieItem'
 
