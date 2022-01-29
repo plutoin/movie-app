@@ -11,11 +11,20 @@
         <div class="skeleton etc"></div>
       </div>
     </div>
+    <Loader
+      :size="3" 
+      :z-index="9"
+      fixed />
   </div>
 </template>
 
 <script>
+import Loader from '~/components/Loader'
+
 export default {
+  components: {
+    Loader
+  },
   created() {
     console.log(this.$route)
     this.$store.dispatch('movie/searchMovieWithId', {
@@ -37,10 +46,10 @@ export default {
   .poster {
     flex-shrink: 0;
     width: 500px;
-    height: 500px * 3 / 2;
+    height: 500px * 3/2;
     margin-right: 70px;
   }
-  .specs{
+  .specs {
     flex-grow: 1;
   }
   .skeleton {
