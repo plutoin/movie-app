@@ -4,7 +4,7 @@
     class="movie">
     <Loader
       v-if="imageLoading"
-      :size="1.5"
+      :size="1.5" 
       absolute />
     <div class="info">
       <div class="year">
