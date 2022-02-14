@@ -14,8 +14,4 @@ export default {
     Footer
   }
 }
-</script>
-
-<style lang="scss">
-@import "~/scss/main";
-</style>
+</script>ㄴ
