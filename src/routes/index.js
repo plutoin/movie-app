@@ -1,4 +1,7 @@
-import { createRouter, createWebHashHistory } from 'vue-router'
+import {
+  createRouter,
+  createWebHashHistory
+} from 'vue-router'
 import Home from './Home'
 import Movie from './Movie'
 import About from './About'
@@ -8,10 +11,12 @@ export default createRouter({
   // Hash
   // https://google.com/#/search
   history: createWebHashHistory(),
+  scrollBehavior() {
+    return { top: 0 }
+  },
   // pages
   // https://google.com/
-  routes: [
-    {
+  routes: [{
       path: '/',
       component: Home
     },
@@ -22,7 +27,7 @@ export default createRouter({
     {
       path: '/about',
       component: About
-    }, 
+    },
     {
       path: '/:notFound(.*)',
       component: NotFound
