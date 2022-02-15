@@ -7,9 +7,6 @@
 🗓️ **작업기간** : 2022. 01 ~ 02 (1개월)
 
 👨‍💻 **투입인원** : 1명 (개인 프로젝트)
-- <a href="https://sleepy-noyce-17ee92.netlify.app/" target="_blank">**DEMO**</a>
-- <a href="https://github.com/plutoin/movie-app/wiki" target="_blank">**WIKI**</a>
-- <a href="https://www.notion.so/watchusrise/acfbcc93cfb7433bbdaefa2e5cc72a88?v=754c6d93419044f4b10272390717a239" target="_blank">**NOTION**</a>
 
 - [**DEMO**](https://sleepy-noyce-17ee92.netlify.app/)
 - [**WIKI**](https://github.com/plutoin/movie-app/wiki)
