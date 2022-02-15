@@ -22,4 +22,4 @@
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/66389585/154122889-95ff3c0c-7e79-4c98-b7ce-aca89d8324dd.gif" />
+<img src="https://user-images.githubusercontent.com/66389585/154122889-95ff3c0c-7e79-4c98-b7ce-aca89d8324dd.gif" width="700px"/>
