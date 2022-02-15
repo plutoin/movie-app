@@ -2,7 +2,7 @@
 
 ### < 영화 검색 사이트 >
 
-🗓️ **작업기간** : 2022. 01 ~ ing
+🗓️ **작업기간** : 2022. 01 ~ 02 (1개월)
 
 👨‍💻 **투입인원** : 1명 (개인 프로젝트)
 
@@ -21,3 +21,5 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=Webpack&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/66389585/154122889-95ff3c0c-7e79-4c98-b7ce-aca89d8324dd.gif" />
