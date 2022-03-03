@@ -6,6 +6,7 @@ import Header from '~/components/Header'
 describe('components/Header.vue', () => {
   let wrapper
   beforeEach(async() => {
+    window.scrollTo = jest.fn()
     router.push('/movie/tt1234567')
     await router.isReady()
     wrapper = shallowMount(Header, {
@@ -24,6 +25,11 @@ describe('components/Header.vue', () => {
 
   test('경로 정규표현식과 일치해야 합니다', () => {
     const regExp = /^\/movie/
-    expect(wrapper.vm.isMatch(regExp)).toBe(123)
+    expect(wrapper.vm.isMatch(regExp)).toBe(true)
+  })
+
+  test('경로 정규표현식과 일치하지 않아야 합니다', () => {
+    const regExp = /^\/heropy/
+    expect(wrapper.vm.isMatch(regExp)).toBe(false)
   })
 })
