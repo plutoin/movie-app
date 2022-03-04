@@ -3,6 +3,6 @@
 .DS_Store
 node_modules/
 dist/
-cypress/videos
+cypress/videos/
 
 .env
