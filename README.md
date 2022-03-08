@@ -1,17 +1,17 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/823584b7-dcbd-48b7-a926-5a65fa8ccf56/deploy-status)](https://app.netlify.com/sites/sleepy-noyce-17ee92/deploys)
 
-# 🎬 MOVIE APP
+# 🎬 VUE MOVIE APP
 
 ### < 영화 검색 사이트 >
 
-🗓️ **작업기간** : 2022. 01 ~ 02 (1개월)
+🗓️ **작업기간** : 2022. 01 ~ 02
 
 👨‍💻 **투입인원** : 1명 (개인 프로젝트)
 
 - [**DEMO**](https://sleepy-noyce-17ee92.netlify.app/)
 - [**WIKI**](https://github.com/plutoin/movie-app/wiki)
 - [**Notion**](https://www.notion.so/watchusrise/acfbcc93cfb7433bbdaefa2e5cc72a88?v=754c6d93419044f4b10272390717a239)
-- [Nuxt 프로젝트](https://github.com/plutoin/nuxt-movie-app)
+- [**Nuxt 프로젝트**](https://github.com/plutoin/nuxt-movie-app)
 
 <br/>
 
