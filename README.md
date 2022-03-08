@@ -11,6 +11,7 @@
 - [**DEMO**](https://sleepy-noyce-17ee92.netlify.app/)
 - [**WIKI**](https://github.com/plutoin/movie-app/wiki)
 - [**Notion**](https://www.notion.so/watchusrise/acfbcc93cfb7433bbdaefa2e5cc72a88?v=754c6d93419044f4b10272390717a239)
+- [Nuxt 프로젝트](https://github.com/plutoin/nuxt-movie-app)
 
 <br/>
 
