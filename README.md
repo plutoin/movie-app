@@ -24,6 +24,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&max-width=100%)
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat-square&logo=Webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-%23F9DC3E.svg?style=flat-square&logo=Babel&logoColor=black)
+![Cypress](https://img.shields.io/badge/Cypress-%23000000.svg?style=flat-square&logo=cypress&logoColor=#00C7B7)
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=flat-square&logo=jest&logoColor=#00C7B7)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 
