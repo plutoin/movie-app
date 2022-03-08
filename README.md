@@ -13,7 +13,7 @@
 - [**Notion**](https://www.notion.so/watchusrise/acfbcc93cfb7433bbdaefa2e5cc72a88?v=754c6d93419044f4b10272390717a239)
 - [**Nuxt 프로젝트**](https://github.com/plutoin/nuxt-movie-app)
 
-📒 주요업무
+📒 **주요업무**
 
 - 영화 검색 API(omdb api) 연동
 - Vue.js 프레임워크를 활용하여 검색 페이지, 카드형 영화 목록 페이지, 영화별 상세 페이지 등을 구현
